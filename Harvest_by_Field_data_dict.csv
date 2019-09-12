@@ -1,0 +1,39 @@
+Variable,Definition
+holder_id,Unique Holder Indentifier
+household_id,Unique Household Indentifier
+household_id2,Unique HH ID in wave 2
+rural,EA rural urban indicator
+pw_w3,Final adjusted wave 3 weight
+ea_id,Unique Enumeration Area Indentifier
+saq01,Region Code
+saq02,Zone Code
+saq03,Woreda Code
+saq04,Kebele/FA Code
+saq05,EA
+saq06,Household ID
+ph_saq07,Holder ID
+parcel_id,Parcel ID
+field_id,Field ID
+crop_name,Crop Name
+crop_code,Crop Code
+ph_s9q01,What type of crop stand was on the [FIELD]?
+ph_s9q02,"Approximately, how much of the [FIELD] is under [CROP]"
+ph_s9q03,Did you harvest [CROP] from this [FIELD]
+ph_s9q04_a,How much [CROP] did you harvest from this [FIELD](QUANTITY)
+ph_s9q04_b,How much [CROP] did you harvest from this [FIELD](UNIT)
+ph_s9qo4_b_other,others
+ph_s9q05,How much [CROP] did you harvest from this [FIELD]?
+ph_s9q06,What was the condition of this harvest [CROP]?
+ph_s9qo6_other,others
+ph_s9q07_a,What were the months when the harvest started ?
+ph_s9q07_b,What were the months when the harvest ended?
+ph_s9q07a_1,Who in your household makes the decisions concnering the use of [CROP] output fr
+ph_s9q07a_2,Who in your household makes the decisions concnering the use of [CROP] output fr
+ph_s9q08,Was the area harvested less than the area planted?
+ph_s9q09,What percentage of the area planted has been harvested?
+ph_s9q10_a,Why was the area harvested less than the area planted?(1ST Reason)
+ph_s9q10_b,Why was the area harvested less than the area planted?(2ND Reason)
+ph_s9q11,Was there any crop damage on [CROP]?
+ph_s9q12,What was the main cause of the damage on [CROP]?
+ph_s9q13,What is the percentage of damage on [CROP]?
+obs,Observations
