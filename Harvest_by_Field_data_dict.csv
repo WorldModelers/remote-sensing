@@ -37,3 +37,4 @@ ph_s9q11,Was there any crop damage on [CROP]?
 ph_s9q12,What was the main cause of the damage on [CROP]?
 ph_s9q13,What is the percentage of damage on [CROP]?
 obs,Observations
+ph_s9q12_a,How much crop harvested from this field during the last season KILOS
