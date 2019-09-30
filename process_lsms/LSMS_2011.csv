@@ -1,4 +1,4 @@
-Household_UUID,region_zone_woreda,Crop Name,Quantity (kg),Lat,Lon,Year
+Household_UUID,region_zone_woreda,Crop Name,Quantity (kg),Lon,Lat,Year
 01010101601002,tigray_1_1,Sorghum,600.0,14.353816185,37.890876313,2011
 01010101601002,tigray_1_1,Millet,200.0,14.353816185,37.890876313,2011
 01010101601017,tigray_1_1,Millet,80.0,14.353816185,37.890876313,2011

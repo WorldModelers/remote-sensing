@@ -1,4 +1,4 @@
-Household_UUID,region_zone_woreda,Crop Name,Quantity (kg),Lat,Lon,Year
+Household_UUID,region_zone_woreda,Crop Name,Quantity (kg),Lon,Lat,Year
 010101088801601002,tigray_1_1,Maize,5.25599992275238,37.890876313,14.353816185,2015
 010101088801601002,tigray_1_1,Red Pepper,2.0,37.890876313,14.353816185,2015
 010101088801601002,tigray_1_1,Sorghum,350.0,37.890876313,14.353816185,2015
